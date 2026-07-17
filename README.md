@@ -1,4 +1,4 @@
-# Project 3: Expense Tracker
+# Project 2: Expense Tracker
 
 **DecodeLabs Industrial Training Kit — Batch 2026**
 
