@@ -68,7 +68,4 @@ FINAL TOTAL SPENT     : $150.00
 - Show min/max/average expense alongside the total
 - Add an "undo last entry" option
 
-## About
 
-Part of the DecodeLabs Python Programming track — Batch 2026.
-📞 +91 89330 06408 · ✉ decodelabs.tech@gmail.com · 🌎 www.decodelabs.tech
